@@ -8,9 +8,9 @@ A program that uses Twitter API to retrieve users' tweets, performs morphologica
 
 **Twitter APIが利用可能**であることが大前提です。
 
-It is a prerequisite that the **Twitter API is available**.
-
 あらかじめconfig.pyにAPIキーとアクセストークンを記述してください。
+
+It is a prerequisite that the **Twitter API is available**.
 
 You must include an API key and an access token in your config.py file.
 ```
