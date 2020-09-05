@@ -37,16 +37,17 @@ pip install markovify
 
 ・リツイートは取得するツイートに含めていません。
 
-・Retweets are not included in the tweets you get.
-
 ・メンションやハッシュタグ、URL、絵文字などは除去するようにしてあります。
-
-・Mentions, hashtags, URLs and emojis are removed.
 
 ・全角で書かれた英数字は半角に置き換えるようにしてあります。
 
-・Full-width alphanumeric characters are replaced with half-width characters.
-
 ・API実行の回数上限の関係で2000ツイートまでの取得にとどめてあります。
+
+
+・Retweets are not included in the tweets you get.
+
+・Mentions, hashtags, URLs and emojis are removed.
+
+・Full-width alphanumeric characters are replaced with half-width characters.
 
 ・Due to the API's limit on the number of times it can be executed, the number of tweets is limited to 2000.
